@@ -1,0 +1,4 @@
+k8s.gcr.io/heapster-influxdb-amd64:v1.3.3
+k8s.gcr.io/heapster-amd64:v1.5.3
+k8s.gcr.io/heapster-grafana-amd64:v4.4.3
+k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
