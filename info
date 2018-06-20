@@ -10,3 +10,6 @@ gcr.io/google_containers/metrics-server-amd64:v0.2.1
 gcr.io/google_containers/elasticsearch:v2.4.1-2
 gcr.io/google_containers/kibana:v4.6.1-1
 gcr.io/google_containers/fluentd-elasticsearch:1.22
+
+
+gcr.io/kubernetes-helm/tiller:v2.9.1
